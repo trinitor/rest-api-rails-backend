@@ -1,0 +1,23 @@
+u1_d1:
+  user: user01
+  os: iOS
+  push_token: pushabc1
+  status: 1
+
+u1_d2:
+  user: user01
+  os: iOS
+  push_token: pushabc2
+  status: 1
+
+u1_d3:
+  user: user01
+  os: iOS
+  push_token: pushabc3
+  status: 1
+
+u2_d1:
+  user: user02
+  os: iOS
+  push_token: pushbcd1
+  status: 1

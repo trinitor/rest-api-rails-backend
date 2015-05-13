@@ -1,0 +1,30 @@
+u1_u2:
+  user: user01
+  friend: user02
+  status: 2
+
+u2_u1:
+  user: user02
+  friend: user01
+  status: 2
+
+u1_u5:
+  user: user01
+  friend: user05
+  status: 2
+
+u5_u1:
+  user: user05
+  friend: user01
+  status: 2
+
+u1_u6:
+  user: user01
+  friend: user06
+  status: 2
+
+u6_u1:
+  user: user06
+  friend: user01
+  status: 2
+

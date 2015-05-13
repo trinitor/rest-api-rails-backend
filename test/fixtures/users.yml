@@ -1,0 +1,47 @@
+user01:
+  name: user01
+  email: user01@example.com
+  password_digest: $2a$10$jTprc7edWylNlqaQGar7Cemr3bQJDz3WXLCryulZTg8DY2Kg5jvWO
+  auth_token: abc1
+
+user02:
+  name: user02
+  email: user01@example.com
+  password_digest: $2a$10$jTprc7edWylNlqaQGar7Cemr3bQJDz3WXLCryulZTg8DY2Kg5jvWO
+  auth_token: abc2
+
+user03:
+  name: user03
+  email: user03@example.com
+  password_digest: $2a$10$jTprc7edWylNlqaQGar7Cemr3bQJDz3WXLCryulZTg8DY2Kg5jvWO
+  auth_token: abc3
+
+user04:
+  name: user04
+  email: user04@example.com
+  password_digest: $2a$10$jTprc7edWylNlqaQGar7Cemr3bQJDz3WXLCryulZTg8DY2Kg5jvWO
+  auth_token: abc4
+
+user05:
+  name: user05
+  email: user05@example.com
+  password_digest: $2a$10$jTprc7edWylNlqaQGar7Cemr3bQJDz3WXLCryulZTg8DY2Kg5jvWO
+  auth_token: abc5
+
+user06:
+  name: user06
+  email: user06@example.com
+  password_digest: $2a$10$jTprc7edWylNlqaQGar7Cemr3bQJDz3WXLCryulZTg8DY2Kg5jvWO
+  auth_token: abc6
+
+user07:
+  name: user07
+  email: user07@example.com
+  password_digest: $2a$10$jTprc7edWylNlqaQGar7Cemr3bQJDz3WXLCryulZTg8DY2Kg5jvWO
+  auth_token: abc7
+
+user08:
+  name: user08
+  email: user08@example.com
+  password_digest: $2a$10$jTprc7edWylNlqaQGar7Cemr3bQJDz3WXLCryulZTg8DY2Kg5jvWO
+  auth_token: abc8

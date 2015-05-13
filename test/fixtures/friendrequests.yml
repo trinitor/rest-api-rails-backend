@@ -1,0 +1,14 @@
+u3_u1:
+  user: user03
+  friend: user01
+  status: 1
+
+u4_u1:
+  user: user04
+  friend: user01
+  status: 1
+
+u7_u1:
+  user: user07
+  friend: user01
+  status: 1
